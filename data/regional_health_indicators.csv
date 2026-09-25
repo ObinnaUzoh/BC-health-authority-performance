@@ -1,0 +1,106 @@
+Region,Indicator,Measure type,Indicator segment,Segment value,Time scale,Time frame,Metric,Main metric,Metric value,Unit of measure,Confidence interval lower limit,Confidence interval upper limit,Refresh date
+Fraser Health ,Adult Canadians With a Regular Health Provider,Indicator,Life Stage,Adults,Calendar year,2024,Percent (weighted),Yes,83.1,,79.5,86.1,2026-05-26
+Northern Health ,Adult Canadians With a Regular Health Provider,Indicator,Life Stage,Adults,Calendar year,2024,Percent (weighted),Yes,82.6,,77.6,86.7,2026-05-26
+Interior Health ,Adult Canadians With a Regular Health Provider,Indicator,Life Stage,Adults,Calendar year,2024,Percent (weighted),Yes,79.4,,75.3,83,2026-05-26
+Vancouver Coastal Health ,Adult Canadians With a Regular Health Provider,Indicator,Life Stage,Adults,Calendar year,2024,Percent (weighted),Yes,77.1,,73.2,80.5,2026-05-26
+Island Health ,Adult Canadians With a Regular Health Provider,Indicator,Life Stage,Adults,Calendar year,2024,Percent (weighted),Yes,76,,71.9,79.8,2026-05-26
+Northern Health ,All Patients Readmitted to Hospital,Indicator,Not applicable,Not applicable,Fiscal year,2020/2021,Risk-adjusted rate,Yes,11.2,Per 100,10.68,11.71,2025-10-14
+Northern Health ,All Patients Readmitted to Hospital,Indicator,Not applicable,Not applicable,Fiscal year,2024/2025,Risk-adjusted rate,Yes,10.7,Per 100,10.19,11.14,2025-10-14
+Fraser Health ,All Patients Readmitted to Hospital,Indicator,Not applicable,Not applicable,Fiscal year,2020/2021,Risk-adjusted rate,Yes,10.3,Per 100,10.11,10.54,2025-10-14
+Vancouver Coastal Health ,All Patients Readmitted to Hospital,Indicator,Not applicable,Not applicable,Fiscal year,2020/2021,Risk-adjusted rate,Yes,10.3,Per 100,10.03,10.55,2025-10-14
+Interior Health ,All Patients Readmitted to Hospital,Indicator,Not applicable,Not applicable,Fiscal year,2021/2022,Risk-adjusted rate,Yes,10.3,Per 100,10,10.52,2025-10-14
+Vancouver Coastal Health ,All Patients Readmitted to Hospital,Indicator,Not applicable,Not applicable,Fiscal year,2021/2022,Risk-adjusted rate,Yes,10.2,Per 100,9.95,10.45,2025-10-14
+Vancouver Coastal Health ,All Patients Readmitted to Hospital,Indicator,Not applicable,Not applicable,Fiscal year,2024/2025,Risk-adjusted rate,Yes,10.1,Per 100,9.91,10.39,2025-10-14
+Vancouver Coastal Health ,All Patients Readmitted to Hospital,Indicator,Not applicable,Not applicable,Fiscal year,2023/2024,Risk-adjusted rate,Yes,10.1,Per 100,9.85,10.32,2025-10-14
+Interior Health ,All Patients Readmitted to Hospital,Indicator,Not applicable,Not applicable,Fiscal year,2020/2021,Risk-adjusted rate,Yes,10.1,Per 100,9.83,10.35,2025-10-14
+Interior Health ,All Patients Readmitted to Hospital,Indicator,Not applicable,Not applicable,Fiscal year,2024/2025,Risk-adjusted rate,Yes,10.1,Per 100,9.82,10.32,2025-10-14
+Northern Health ,All Patients Readmitted to Hospital,Indicator,Not applicable,Not applicable,Fiscal year,2021/2022,Risk-adjusted rate,Yes,10.3,Per 100,9.81,10.78,2025-10-14
+Island Health ,All Patients Readmitted to Hospital,Indicator,Not applicable,Not applicable,Fiscal year,2024/2025,Risk-adjusted rate,Yes,9.9,Per 100,9.61,10.11,2025-10-14
+Interior Health ,All Patients Readmitted to Hospital,Indicator,Not applicable,Not applicable,Fiscal year,2023/2024,Risk-adjusted rate,Yes,9.8,Per 100,9.59,10.09,2025-10-14
+Northern Health ,All Patients Readmitted to Hospital,Indicator,Not applicable,Not applicable,Fiscal year,2023/2024,Risk-adjusted rate,Yes,10,Per 100,9.56,10.49,2025-10-14
+Fraser Health ,All Patients Readmitted to Hospital,Indicator,Not applicable,Not applicable,Fiscal year,2024/2025,Risk-adjusted rate,Yes,9.7,Per 100,9.55,9.95,2025-10-14
+Island Health ,All Patients Readmitted to Hospital,Indicator,Not applicable,Not applicable,Fiscal year,2023/2024,Risk-adjusted rate,Yes,9.8,Per 100,9.54,10.03,2025-10-14
+Fraser Health ,All Patients Readmitted to Hospital,Indicator,Not applicable,Not applicable,Fiscal year,2021/2022,Risk-adjusted rate,Yes,9.7,Per 100,9.52,9.92,2025-10-14
+Island Health ,All Patients Readmitted to Hospital,Indicator,Not applicable,Not applicable,Fiscal year,2021/2022,Risk-adjusted rate,Yes,9.7,Per 100,9.43,9.93,2025-10-14
+Vancouver Coastal Health ,All Patients Readmitted to Hospital,Indicator,Not applicable,Not applicable,Fiscal year,2022/2023,Risk-adjusted rate,Yes,9.6,Per 100,9.39,9.86,2025-10-14
+Island Health ,All Patients Readmitted to Hospital,Indicator,Not applicable,Not applicable,Fiscal year,2022/2023,Risk-adjusted rate,Yes,9.6,Per 100,9.35,9.83,2025-10-14
+Island Health ,All Patients Readmitted to Hospital,Indicator,Not applicable,Not applicable,Fiscal year,2020/2021,Risk-adjusted rate,Yes,9.6,Per 100,9.33,9.85,2025-10-14
+Fraser Health ,All Patients Readmitted to Hospital,Indicator,Not applicable,Not applicable,Fiscal year,2023/2024,Risk-adjusted rate,Yes,9.5,Per 100,9.32,9.71,2025-10-14
+Interior Health ,All Patients Readmitted to Hospital,Indicator,Not applicable,Not applicable,Fiscal year,2022/2023,Risk-adjusted rate,Yes,9.5,Per 100,9.29,9.79,2025-10-14
+Fraser Health ,All Patients Readmitted to Hospital,Indicator,Not applicable,Not applicable,Fiscal year,2022/2023,Risk-adjusted rate,Yes,9.3,Per 100,9.11,9.49,2025-10-14
+Northern Health ,All Patients Readmitted to Hospital,Indicator,Not applicable,Not applicable,Fiscal year,2022/2023,Risk-adjusted rate,Yes,9.4,Per 100,9,9.9,2025-10-14
+Fraser Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2024/2025,Risk-adjusted rate,Yes,5.6,Per 100,5.44,5.74,2025-10-07
+Fraser Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2023/2024,Risk-adjusted rate,Yes,5.5,Per 100,5.31,5.61,2025-10-07
+Fraser Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2019/2020,Risk-adjusted rate,Yes,5.4,Per 100,5.24,5.54,2025-10-07
+Fraser Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2016/2017,Risk-adjusted rate,Yes,5.4,Per 100,5.21,5.51,2025-10-07
+Fraser Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2017/2018,Risk-adjusted rate,Yes,5.4,Per 100,5.21,5.51,2025-10-07
+Fraser Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2018/2019,Risk-adjusted rate,Yes,5.3,Per 100,5.2,5.5,2025-10-07
+Fraser Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2022/2023,Risk-adjusted rate,Yes,5.3,Per 100,5.18,5.48,2025-10-07
+Vancouver Coastal Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2024/2025,Risk-adjusted rate,Yes,5.4,Per 100,5.17,5.55,2025-10-07
+Fraser Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2021/2022,Risk-adjusted rate,Yes,5.3,Per 100,5.14,5.43,2025-10-07
+Vancouver Coastal Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2023/2024,Risk-adjusted rate,Yes,5.2,Per 100,5.06,5.44,2025-10-07
+Vancouver Coastal Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2016/2017,Risk-adjusted rate,Yes,5.2,Per 100,5.01,5.39,2025-10-07
+Fraser Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2020/2021,Risk-adjusted rate,Yes,5.1,Per 100,4.99,5.29,2025-10-07
+Vancouver Coastal Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2018/2019,Risk-adjusted rate,Yes,5.2,Per 100,4.99,5.37,2025-10-07
+Vancouver Coastal Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2019/2020,Risk-adjusted rate,Yes,5.2,Per 100,4.99,5.37,2025-10-07
+Vancouver Coastal Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2022/2023,Risk-adjusted rate,Yes,5.2,Per 100,4.99,5.37,2025-10-07
+Northern Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2023/2024,Risk-adjusted rate,Yes,5.2,Per 100,4.9,5.57,2025-10-07
+Vancouver Coastal Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2017/2018,Risk-adjusted rate,Yes,5,Per 100,4.81,5.18,2025-10-07
+Vancouver Coastal Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2021/2022,Risk-adjusted rate,Yes,5,Per 100,4.8,5.17,2025-10-07
+Northern Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2018/2019,Risk-adjusted rate,Yes,5,Per 100,4.72,5.36,2025-10-07
+Vancouver Coastal Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2020/2021,Risk-adjusted rate,Yes,4.9,Per 100,4.71,5.1,2025-10-07
+Northern Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2024/2025,Risk-adjusted rate,Yes,5,Per 100,4.68,5.32,2025-10-07
+Northern Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2017/2018,Risk-adjusted rate,Yes,4.9,Per 100,4.56,5.2,2025-10-07
+Northern Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2019/2020,Risk-adjusted rate,Yes,4.8,Per 100,4.49,5.13,2025-10-07
+Interior Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2017/2018,Risk-adjusted rate,Yes,4.6,Per 100,4.4,4.75,2025-10-07
+Interior Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2024/2025,Risk-adjusted rate,Yes,4.6,Per 100,4.39,4.74,2025-10-07
+Interior Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2023/2024,Risk-adjusted rate,Yes,4.5,Per 100,4.35,4.69,2025-10-07
+Interior Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2019/2020,Risk-adjusted rate,Yes,4.5,Per 100,4.34,4.68,2025-10-07
+Northern Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2016/2017,Risk-adjusted rate,Yes,4.7,Per 100,4.34,4.98,2025-10-07
+Northern Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2020/2021,Risk-adjusted rate,Yes,4.6,Per 100,4.28,4.93,2025-10-07
+Interior Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2021/2022,Risk-adjusted rate,Yes,4.3,Per 100,4.17,4.51,2025-10-07
+Interior Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2018/2019,Risk-adjusted rate,Yes,4.3,Per 100,4.17,4.5,2025-10-07
+Interior Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2016/2017,Risk-adjusted rate,Yes,4.3,Per 100,4.15,4.49,2025-10-07
+Interior Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2022/2023,Risk-adjusted rate,Yes,4.3,Per 100,4.13,4.46,2025-10-07
+Island Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2024/2025,Risk-adjusted rate,Yes,4.3,Per 100,4.12,4.46,2025-10-07
+Northern Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2022/2023,Risk-adjusted rate,Yes,4.4,Per 100,4.12,4.74,2025-10-07
+Northern Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2021/2022,Risk-adjusted rate,Yes,4.4,Per 100,4.07,4.68,2025-10-07
+Island Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2023/2024,Risk-adjusted rate,Yes,4.2,Per 100,4.05,4.38,2025-10-07
+Island Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2019/2020,Risk-adjusted rate,Yes,4.2,Per 100,4.04,4.37,2025-10-07
+Island Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2021/2022,Risk-adjusted rate,Yes,4.2,Per 100,4.04,4.37,2025-10-07
+Island Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2022/2023,Risk-adjusted rate,Yes,4.2,Per 100,4.04,4.37,2025-10-07
+Island Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2018/2019,Risk-adjusted rate,Yes,4.1,Per 100,3.95,4.28,2025-10-07
+Interior Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2020/2021,Risk-adjusted rate,Yes,4.1,Per 100,3.91,4.25,2025-10-07
+Island Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2017/2018,Risk-adjusted rate,Yes,4,Per 100,3.85,4.18,2025-10-07
+Island Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2020/2021,Risk-adjusted rate,Yes,4,Per 100,3.83,4.15,2025-10-07
+Island Health ,High Users of Hospital Beds,Indicator,Not applicable,Not applicable,Fiscal year,2016/2017,Risk-adjusted rate,Yes,4,Per 100,3.81,4.13,2025-10-07
+Fraser Health ,"Family Medicine Physicians per 100,000 Population",Contextual measure,Not applicable,Not applicable,Calendar year,2024,Crude rate,Yes,97,"Per 100,000",,,2025-10-10
+Vancouver Coastal Health ,"Family Medicine Physicians per 100,000 Population",Contextual measure,Not applicable,Not applicable,Calendar year,2024,Crude rate,Yes,166,"Per 100,000",,,2025-10-10
+Interior Health ,"Family Medicine Physicians per 100,000 Population",Contextual measure,Not applicable,Not applicable,Calendar year,2024,Crude rate,Yes,151,"Per 100,000",,,2025-10-10
+Island Health ,"Family Medicine Physicians per 100,000 Population",Contextual measure,Not applicable,Not applicable,Calendar year,2024,Crude rate,Yes,177,"Per 100,000",,,2025-10-10
+Northern Health ,"Family Medicine Physicians per 100,000 Population",Contextual measure,Not applicable,Not applicable,Calendar year,2024,Crude rate,Yes,146,"Per 100,000",,,2025-10-10
+Fraser Health ,Cost of a Standard Hospital Stay,Indicator,Not applicable,Not applicable,Fiscal year,2020/2021,CSHS,Yes,"8,379",Dollars,,,2026-05-19
+Fraser Health ,Cost of a Standard Hospital Stay,Indicator,Not applicable,Not applicable,Fiscal year,2021/2022,CSHS,Yes,"8,013",Dollars,,,2026-05-19
+Fraser Health ,Cost of a Standard Hospital Stay,Indicator,Not applicable,Not applicable,Fiscal year,2022/2023,CSHS,Yes,"8,741",Dollars,,,2026-05-19
+Fraser Health ,Cost of a Standard Hospital Stay,Indicator,Not applicable,Not applicable,Fiscal year,2023/2024,CSHS,Yes,"10,125",Dollars,,,2026-05-19
+Fraser Health ,Cost of a Standard Hospital Stay,Indicator,Not applicable,Not applicable,Fiscal year,2024/2025,CSHS,Yes,"11,068",Dollars,,,2026-05-19
+Vancouver Coastal Health ,Cost of a Standard Hospital Stay,Indicator,Not applicable,Not applicable,Fiscal year,2020/2021,CSHS,Yes,"10,029",Dollars,,,2026-05-19
+Vancouver Coastal Health ,Cost of a Standard Hospital Stay,Indicator,Not applicable,Not applicable,Fiscal year,2021/2022,CSHS,Yes,"8,736",Dollars,,,2026-05-19
+Vancouver Coastal Health ,Cost of a Standard Hospital Stay,Indicator,Not applicable,Not applicable,Fiscal year,2022/2023,CSHS,Yes,"9,290",Dollars,,,2026-05-19
+Vancouver Coastal Health ,Cost of a Standard Hospital Stay,Indicator,Not applicable,Not applicable,Fiscal year,2023/2024,CSHS,Yes,"10,607",Dollars,,,2026-05-19
+Vancouver Coastal Health ,Cost of a Standard Hospital Stay,Indicator,Not applicable,Not applicable,Fiscal year,2024/2025,CSHS,Yes,"13,154",Dollars,,,2026-05-19
+Interior Health ,Cost of a Standard Hospital Stay,Indicator,Not applicable,Not applicable,Fiscal year,2020/2021,CSHS,Yes,"8,689",Dollars,,,2026-05-19
+Interior Health ,Cost of a Standard Hospital Stay,Indicator,Not applicable,Not applicable,Fiscal year,2021/2022,CSHS,Yes,"8,266",Dollars,,,2026-05-19
+Interior Health ,Cost of a Standard Hospital Stay,Indicator,Not applicable,Not applicable,Fiscal year,2022/2023,CSHS,Yes,"9,157",Dollars,,,2026-05-19
+Interior Health ,Cost of a Standard Hospital Stay,Indicator,Not applicable,Not applicable,Fiscal year,2023/2024,CSHS,Yes,"10,641",Dollars,,,2026-05-19
+Interior Health ,Cost of a Standard Hospital Stay,Indicator,Not applicable,Not applicable,Fiscal year,2024/2025,CSHS,Yes,"11,315",Dollars,,,2026-05-19
+Island Health ,Cost of a Standard Hospital Stay,Indicator,Not applicable,Not applicable,Fiscal year,2020/2021,CSHS,Yes,"8,088",Dollars,,,2026-05-19
+Island Health ,Cost of a Standard Hospital Stay,Indicator,Not applicable,Not applicable,Fiscal year,2021/2022,CSHS,Yes,"8,444",Dollars,,,2026-05-19
+Island Health ,Cost of a Standard Hospital Stay,Indicator,Not applicable,Not applicable,Fiscal year,2022/2023,CSHS,Yes,"8,966",Dollars,,,2026-05-19
+Island Health ,Cost of a Standard Hospital Stay,Indicator,Not applicable,Not applicable,Fiscal year,2023/2024,CSHS,Yes,"10,052",Dollars,,,2026-05-19
+Island Health ,Cost of a Standard Hospital Stay,Indicator,Not applicable,Not applicable,Fiscal year,2024/2025,CSHS,Yes,"10,265",Dollars,,,2026-05-19
+Northern Health ,Cost of a Standard Hospital Stay,Indicator,Not applicable,Not applicable,Fiscal year,2020/2021,CSHS,Yes,"9,059",Dollars,,,2026-05-19
+Northern Health ,Cost of a Standard Hospital Stay,Indicator,Not applicable,Not applicable,Fiscal year,2021/2022,CSHS,Yes,"8,519",Dollars,,,2026-05-19
+Northern Health ,Cost of a Standard Hospital Stay,Indicator,Not applicable,Not applicable,Fiscal year,2022/2023,CSHS,Yes,"9,255",Dollars,,,2026-05-19
+Northern Health ,Cost of a Standard Hospital Stay,Indicator,Not applicable,Not applicable,Fiscal year,2023/2024,CSHS,Yes,"10,801",Dollars,,,2026-05-19
+Northern Health ,Cost of a Standard Hospital Stay,Indicator,Not applicable,Not applicable,Fiscal year,2024/2025,CSHS,Yes,"13,055",Dollars,,,2026-05-19
